@@ -118,8 +118,10 @@ html{
 .projects{
 	height: 600px;
 }
-.resumebtn: hover{
-	transform: scale(1.0);
+.resumebtn: {
+	color: cyan;
+	height: 20px;
+	width: 20px;
 }
 .cnt_form{
 	padding: 15px;
